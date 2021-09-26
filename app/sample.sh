@@ -9,5 +9,5 @@ git add .; git add -u
 
 git commit -s -m "Update images at `date`"
 git pull origin master --rebase
-# git push origin master
+git push origin master
 
