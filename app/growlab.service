@@ -9,7 +9,9 @@ Group=pi
 Restart=always
 
 # Every 600 seconds (or 10 minutes)
-RestartSec=600
+# RestartSec=600
+/bin/bash: q: command not found
+
 
 StartLimitInterval=0
 
