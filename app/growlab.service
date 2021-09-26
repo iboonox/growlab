@@ -10,7 +10,6 @@ Restart=always
 
 # Every 600 seconds (or 10 minutes)
 RestartSec=60
-
 StartLimitInterval=0
 
 # Sensor type: "none", "BME280" or "BMP280"
