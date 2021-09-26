@@ -9,7 +9,7 @@ Group=pi
 Restart=always
 
 # Every 600 seconds (or 10 minutes)
-RestartSec=5
+RestartSec=60
 
 StartLimitInterval=0
 
